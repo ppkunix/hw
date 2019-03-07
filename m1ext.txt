@@ -1,1 +1,1 @@
-this is m1ext file for master
+this is m1ext file for main branch: master. and is modified in br1.
